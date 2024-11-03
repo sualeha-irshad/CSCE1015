@@ -1,8 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 
-#EUID 
+## EUID 
 ssi0850
 
-#Favorite Professor 
+#@ Favorite Professor 
 Jacob Hochstetler
